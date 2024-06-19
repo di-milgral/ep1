@@ -1,0 +1,40 @@
+plano 1,"1) escolhendo o alvo, qual banco o personagem e seus comparsas devem roubar?"
+plano 2,"2) recrutando a equipe, quem o personagem deve recrutar para a equipe?"
+plano 3,"3) pegando informações, como você pega informações do banco?"
+plano 4,"4) desativando a segurança, como você desativa os alarmes?"
+plano 5,"5) entrando no banco, como você deve adentrar ao banco?"
+plano 6,"6) acessando o cofre, como você deve acessar o cofre?"
+plano 7,"7) Pegando os Itens de valor, como você deve coletar os itens do cofre?"
+plano 8,
+plano 9,
+plano 10,
+tunel 1,
+tunel 2,
+tunel 3,
+tunel 4,
+tunel 5,
+tunel 6,
+tunel 7,
+tunel 8,
+tunel 9,
+tunel 10,
+cofre 1,
+cofre 2,
+cofre 3,
+cofre 4,
+cofre 5,
+cofre 6,
+cofre 7,
+cofre 8,
+cofre 9,
+cofre 10,
+fuga 1,
+fuga 2,
+fuga 3,
+fuga 4,
+fuga 5,
+fuga 6,
+fuga 7,
+fuga 8,
+fuga 9,
+fuga 10,
